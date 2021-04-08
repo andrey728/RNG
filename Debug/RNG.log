@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+C:\Users\Андрей\source\repos\RNG\MyForm.h(277,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Андрей\source\repos\RNG\MyForm.h(279,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Андрей\source\repos\RNG\MyForm.h(301,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Андрей\source\repos\RNG\MyForm.h(313,1): warning C4244: +=: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Андрей\source\repos\RNG\MyForm.h(324,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Андрей\source\repos\RNG\MyForm.h(333,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(339,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(341,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(348,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(358,9): warning C4101: quantity: неиспользованная локальная переменная
+C:\Users\Андрей\source\repos\RNG\MyForm.h(392,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(406,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(420,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(447,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(452,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Андрей\source\repos\RNG\MyForm.h(460,24): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Андрей\source\repos\RNG\MyForm.h(453): warning C4700: использована неинициализированная локальная переменная "summPi"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  RNG.vcxproj -> C:\Users\Андрей\source\repos\RNG\Debug\RNG.exe
